@@ -1,0 +1,675 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <atom:link href="https://raw.githubusercontent.com/cillin89/Audiobooks/main/audiobooks.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" type="application/rss+xml"/>
+        <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" type="application/rss+xml"/>
+        <atom:link href="https://websubhub.com/hub" rel="hub" type="application/rss+xml"/>
+        <atom:link href="https://switchboard.p3k.io/" rel="hub" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Jul 2024 09:07:38 +0000</lastBuildDate>
+        <generator>Castopod - https://castopod.org/</generator>
+        <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+        <podcast:guid>94991843-c84b-599f-8bc4-ac29662e52b9</podcast:guid>
+        <title>Audiobooks</title>
+        <description>Audiobooks</description>
+        <podcast:medium>podcast</podcast:medium>
+        <itunes:image href="https://drive.kenuvo.workers.dev/0:/coverimage.png"/>
+        <language>en</language>
+        <podcast:locked owner="audio@books.com">no</podcast:locked>
+        <podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@Audiobooks@audiobooks.kenuvo.com" accountUrl="https://audiobooks.kenuvo.com/@Audiobooks"/>
+        <itunes:category text="Technology"/>
+        <category>Technology</category>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author/>
+        <link>https://drive.kenuvo.workers.dev</link>
+        <itunes:owner>
+            <itunes:name/>
+            <itunes:email>audio@books.com</itunes:email>
+        </itunes:owner>
+        <itunes:type>episodic</itunes:type>
+        <image>
+            <url>https://drive.kenuvo.workers.dev/0:/coverimage.png</url>
+            <title>Audiobooks</title>
+            <link>https://drive.kenuvo.workers.dev</link>
+        </image>
+        <item>
+            <title>Rinsed</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/rinsed.m4a" length="552833610" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/rinsed</guid>
+            <pubDate>Tue, 16 Jul 2024 12:07:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>There's an old saying: 'a rising tide lifts all boats'.</p><p>It's normally couched in positive terms; that overall economic improvement will benefit everyone. In the case of high-tech money laundering, however, it offers a dark vision of the future. The better these launderers become at their work, the more crime of all types will be enabled. It's time to understand where the water is rising, before it washes over us all.</p><p>Money laundering has been around for centuries. For as long as people have been stealing money, there's been an industry ready to wash it. But recent tech innovations have created vastly complex new systems for laundering that threaten to overwhelm authorities, destabilise economies and disrupt societies.</p><p>Ranging from the flamboyant luxury of Dubai hotels to quiet coastal Ireland, from the UK to Nigeria and from Indonesia to North Korea, Rinsed is a truly global relevatory investigation into the new army of innovative launderers ... and the consequences for all of us.</p> ]]>
+            </description>
+            <itunes:duration>34513</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/rinsed</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/rinsed.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Dark Web</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-dark-web.m4a" length="124982350" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-dark-web</guid>
+            <pubDate>Wed, 19 Jun 2024 12:07:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>From sex trafficking and fraud to government secrets and anonymous hacking groups, this definitive exploration and exposé of the dark web goes where no documentary has gone before.</p><p>The anonymous and lawless online environment of the Dark Web makes headlines on a daily basis. It touches all of our lives, without our knowledge, in many different ways. But where do the myths end and reality begin?</p><p>Tech writer and broadcaster Geoff White (Channel 4 News) wants to find out. He casts an investigatory light on the dark underworld of the internet. We join him on a shocking tour of its secrets, revealing corporate hackers, paedophile rings, fraud on an international scale, conspiracy theories, drug dealers, gun runners, spies and specialist police investigators.</p><p>Driven by undercover recordings, anonymous contributors and expert interviews, this in-depth, journalistically-rigorous current affairs investigation leaves no online stone unturned in its quest for the truth.</p> ]]>
+            </description>
+            <itunes:duration>15603</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-dark-web</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-dark-web.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Worm</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/worm.m4a" length="319186060" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/worm</guid>
+            <pubDate>Tue, 18 Jun 2024 12:07:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Worm: The First Digital World War tells the story of the Conficker worm, a potentially devastating piece of malware that has baffled experts and infected more than twelve million computers worldwide. When Conficker was unleashed in November 2008, cybersecurity experts did not know what to make of it. Exploiting security flaws in Microsoft Windows, it grew at an astonishingly rapid rate, infecting millions of computers around the world within weeks. Once the worm infiltrated one system it was able to link it with others to form a single network under illicit outside control known as a “botnet.” This botnet was soon capable of overpowering any of the vital computer networks that control banking, telephones, energy flow, air traffic, health-care information — even the Internet itself. Was it a platform for criminal profit or a weapon controlled by a foreign power or dissident organization?</p> <p>Surprisingly, the U.S. government was only vaguely aware of the threat that Conficker posed, and the task of mounting resistance to the worm fell to a disparate but gifted group of geeks, Internet entrepreneurs, and computer programmers. But when Conficker’s controllers became aware that their creation was encountering resistance, they began refining the worm’s code to make it more difficult to trace and more powerful, testing the Cabal lock’s unity and resolve. Will the Cabal lock down the worm before it is too late? Game on.</p> ]]>
+            </description>
+            <itunes:duration>25742</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/worm</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/worm.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Tracers in the Dark</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/tracers-in-the-dark.m4a" length="477694883" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/tracers-in-the-dark</guid>
+            <pubDate>Tue, 18 Jun 2024 12:06:53 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>From the award-winning author of Sandworm comes the propulsive story of a new breed of investigators who have cracked the Bitcoin blockchain, exposing once-anonymous realms of money, drugs, and violence.</p> <p>“A gripping, stranger-than-fiction tale of how a small team of geeks and federal agents cracked what was once thought to be untraceable cryptocurrency.”—Garrett M. Graff, New York Times bestselling author of The Only Plane in the Sky and Watergate</p> <p>Over the last decade, a single innovation has massively fueled digital black markets: cryptocurrency. Crime lords inhabiting lawless corners of the internet have operated more freely—whether in drug dealing, money laundering, or human trafficking—than their analog counterparts could have ever dreamed of. By transacting not in dollars or pounds but in currencies with anonymous ledgers, overseen by no government, beholden to no bankers, these black marketeers have sought to rob law enforcement of their chief method of cracking down on illicit finance: following the money.</p> <p>But what if the centerpiece of this dark economy held a secret, fatal flaw? What if their currency wasn’t so cryptic after all? An investigator using the right mixture of technical wizardry, financial forensics, and old-fashioned persistence could uncover an entire world of wrongdoing.</p> <p>Tracers in the Dark is a story of crime and pursuit unlike any other. With unprecedented access to the major players in federal law enforcement and private industry, veteran cybersecurity reporter Andy Greenberg tells an astonishing saga of criminal empires built and destroyed. He introduces an IRS agent with a defiant streak, a Bitcoin-tracing Danish entrepreneur, and a colorful ensemble of hardboiled agents and prosecutors as they delve deep into the crypto-underworld. The result is a thrilling, globe-spanning story of dirty cops, drug bazaars, trafficking rings, and the biggest takedown of an online narcotics market in the history of the Internet.</p> <p>Utterly of our time, Tracers in the Dark is a cat-and-mouse story and a tale of a technological one-upmanship. Filled with canny maneuvering and shocking twists, it answers a provocative question: How would some of the world’s most brazen criminals behave if they were sure they could never get caught?</p> ]]>
+            </description>
+            <itunes:duration>38808</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/tracers-in-the-dark</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/tracers-in-the-dark.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>LikeWar</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/likewar.m4a" length="520249340" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/likewar</guid>
+            <pubDate>Tue, 18 Jun 2024 12:05:55 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Two defense experts explore the collision of war, politics, and social media, where the most important battles are now only a click away.</p> <p>Through the weaponization of social media, the Internet is changing war and politics, just as war and politics are changing the Internet. Terrorists livestream their attacks, “Twitter wars” produce real world casualties, and viral misinformation alters not just the result of battles, but the very fate of nations. The result is that war, tech, and politics have blurred into a new kind of battlespace that plays out on our smartphones.</p> <p>P. W. Singer and Emerson Brooking tackle the mind bending questions that arise when war goes online and the online world goes to war. They explore how ISIS copies the Instagram tactics of Taylor Swift, a former World of Warcraft addict foils war crimes thousands of miles away, Internet trolls shape elections, and China uses a smartphone app to police the thoughts of 1.4 billion citizens. What can be kept secret in a world of networks? Does social media expose the truth or bury it? And what role do ordinary people now play in international conflicts?</p> <p>Delving into the web’s darkest corners, we meet the unexpected warriors of social media, such as the rapper turned jihadist PR czar and the Russian hipsters who wage unceasing infowars against the West. Finally, looking to the crucial years ahead, LikeWar outlines a radical new paradigm for understanding and defending against the unprecedented threats of our networked world.</p> ]]>
+            </description>
+            <itunes:duration>40871</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/likewar</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/likewar.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Fatal System Error</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/fatal-system-error.m4a" length="370817082" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/fatal-system-error</guid>
+            <pubDate>Tue, 18 Jun 2024 12:04:53 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>In this disquieting cyber thriller, Joseph Menn takes readers into the murky hacker underground, traveling the globe from San Francisco to Costa Rica and London to Russia. His guides are California surfer and computer whiz Barrett Lyon and a fearless British high-tech agent. Through these heroes, Menn shows the evolution of cyber-crime from small-time thieving to sophisticated, organized gangs, who began by attacking corporate websites but increasingly steal financial data from consumers and defense secrets from governments. Using unprecedented access to Mob businesses and Russian officials, the book reveals how top criminals earned protection from the Russian government.</p> <p>Fatal System Error penetrates both the Russian cyber-mob and La Cosa Nostra as the two fight over the Internet’s massive spoils. The cloak-and-dagger adventure shows why cyber-crime is much worse than you thought and why the Internet might not survive.</p> ]]>
+            </description>
+            <itunes:duration>30189</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/fatal-system-error</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/fatal-system-error.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>American Kingpin</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/american-kingpin.m4a" length="662463990" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/american-kingpin</guid>
+            <pubDate>Tue, 18 Jun 2024 11:59:50 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Random House presents the unabridged downloadable audiobook edition of American Kingpin by Nick Bilton, read by Will Damron.</p> <p>From New York Times best-selling author Nick Bilton comes a true-life thriller about the rise and fall of Ross Ulbricht, aka the Dread Pirate Roberts, the founder of the online black market Silk Road.</p> <p>In 2011, Ulbricht, a 26-year-old libertarian idealist and former Boy Scout, launched ‘a website where people could buy anything anonymously, with no trail whatsoever that could lead back to them’. He called it Silk Road, opened for business on the Dark Web, and christened himself the Dread Pirate Roberts (after the Princess Bride character). The site grew at a tremendous pace, quickly becoming a $1.2 billion enterprise where you could buy or sell drugs, hacking software, forged passports, counterfeit cash, guns, grenades, and poisons.</p> <p>The Silk Road soon caught the attention of the feds, who embarked on an epic two-year manhunt for the site’s proprietor. Ulbricht, in the meantime, struggled to maintain control of his double life and his marketplace, which he originally started to prove that legalising drugs could make society safer. He gradually abandoned his libertarian ideals to rule Silk Road with increasingly authoritarian force. At one point he engaged the services of hired hitmen to take out employees he felt had wronged him. Soon some of the federal agents who were supposed to be hunting for Ulbricht were lured into the dark world and switched sides to join him.</p> <p>This is a true-life thriller about ambition gone awry, spurred on by the defining clash of our time: the new world of libertarian-leaning, anonymous, decentralised web advocates and the old world of government control, order and the rule of law. Bilton’s dazzling rendering and gift for narrative make for an endlessly fascinating drama.</p> ]]>
+            </description>
+            <itunes:duration>44071</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/american-kingpin</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/american-kingpin.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Zero Day</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/zero-day.m4a" length="592144785" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/zero-day</guid>
+            <pubDate>Tue, 18 Jun 2024 11:40:42 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>A technothriller for the malware and Stuxnet era</p> <p>An airliner’s controls abruptly fail mid-flight over the Atlantic. An oil tanker runs aground in Japan when its navigational system suddenly stops dead. Hospitals everywhere have to abandon their computer databases when patients die after being administered incorrect dosages of their medicine. In the Midwest, a nuclear power plant nearly becomes the next Chernobyl when its cooling systems malfunction.</p> <p>At first, these random computer failures seem like unrelated events. But Jeff Aiken, a former government analyst who quit in disgust after witnessing the gross errors that led up to 9/11, thinks otherwise. Jeff fears a more serious cyber terrorism attack targeting the United States computer infrastructure is already under way. And as other menacing computer malfunctions pop up around the world, some with deadly results, he realizes that there isn’t much time if he hopes to prevent an international catastrophe.</p> <p>Written by a global authority on cyber security, Zero Day presents a chilling “what if” scenario that, in a world completely reliant on technology, is more than possible today - it’s a cataclysmic disaster just waiting to happen.</p> ]]>
+            </description>
+            <itunes:duration>34770</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/zero-day</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/zero-day.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Why We Sleep</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/why-we-sleep.m4a" length="384397863" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/why-we-sleep</guid>
+            <pubDate>Tue, 18 Jun 2024 11:38:42 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The first sleep book by a leading scientific expert - Professor Matthew Walker, director of UC Berkeley’s Sleep and Neuroimaging Lab - reveals his groundbreaking exploration of sleep, explaining how we can harness its transformative power to change our lives for the better.</p> <p>Sleep is one of the most important but least understood aspects of our life, wellness, and longevity. Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when we don’t sleep. Compared to the other basic drives in life - eating, drinking, and reproducing - the purpose of sleep remained elusive.</p> <p>But an explosion of scientific discoveries in the last 20 years has shed new light on this fundamental aspect of our lives. Now, preeminent neuroscientist and sleep expert Matthew Walker gives us a new understanding of the vital importance of sleep and dreaming. Among so many other things, within the brain, sleep enriches our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming mollifies painful memories and creates a virtual reality space in which the brain melds past and present knowledge to inspire creativity.</p> <p>Walker answers important questions about sleep: How do caffeine and alcohol affect sleep? What really happens during REM sleep? Why do our sleep patterns change across a lifetime? How do common sleep aids affect us, and can they do long-term damage? Charting cutting-edge scientific breakthroughs and synthesizing decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood, and energy levels; regulate hormones; prevent cancer, Alzheimer’s, and diabetes; slow the effects of aging; increase longevity; enhance the education and lifespan of our children, and boost the efficiency, success, and productivity of our businesses. Clear-eyed, fascinating, and immensely accessible, Why We Sleep is the crucial account on sleep that will forever change listeners’ minds on the subject.</p> ]]>
+            </description>
+            <itunes:duration>49922</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/why-we-sleep</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/why-we-sleep.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>We Are Legion (We Are Bob)</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/we-are-legion-we-are-bob.m4a" length="575843382" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/we-are-legion-we-are-bob</guid>
+            <pubDate>Tue, 18 Jun 2024 11:37:14 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>There’s a reason We Are Legion (We Are Bob) was named Audible’s Best Science Fiction Book of 2016: Its irresistibly irreverent wit! Bob Johansson has just sold his software company for a small fortune and is looking forward to a life of leisure. The first item on his to-do list: Spending his newfound windfall. On an urge to splurge, he signs up to have his head cryogenically preserved in case of death. Then he gets himself killed crossing the street. Waking up 117 years later, Bob discovers his mind has been uploaded into a sentient space probe with the ability to replicate itself. Bob and his clones are on a mission to find new homes for humanity and boldly go where no Bob has gone before.</p> <p>Dennis E. Taylor’s hilarious novel sets the stage for the magnificent performance of Ray Porter, who revels in the brave new world of corpsicles, artificial intelligence, interstellar space probes, and space colonization in tantalizing detail.</p> <p>We Are Legion (We Are Bob) is the first installment in the blockbuster Audible Original Bobiverse series - which has sold more than one million copies.</p> ]]>
+            </description>
+            <itunes:duration>34267</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/we-are-legion-we-are-bob</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/we-are-legion-we-are-bob.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Turing's Cathedral</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/turings-cathedral.m4a" length="328987080" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/turings-cathedral</guid>
+            <pubDate>Tue, 18 Jun 2024 11:32:20 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Legendary historian and philosopher of science George Dyson vividly re-creates the scenes of focused experimentation, incredible mathematical insight, and pure creative genius that gave us computers, digital television, modern genetics, models of stellar evolution - in other words, computer code.</p> <p>In the 1940s and ’50s, a group of eccentric geniuses - led by John von Neumann - gathered at the newly created Institute for Advanced Study in Princeton, New Jersey. Their joint project was the realization of the theoretical universal machine, an idea that had been put forth by mathematician Alan Turing. This group of brilliant engineers worked in isolation, almost entirely independent from industry and the traditional academic community. But because they relied exclusively on government funding, the government wanted its share of the results: the computer that they built also led directly to the hydrogen bomb. George Dyson has uncovered a wealth of new material about this project, and in bringing the story of these men and women and their ideas to life, he shows how the crucial advancements that dominated twentieth-century technology emerged from one computer in one laboratory, where the digital universe as we know it was born.</p> ]]>
+            </description>
+            <itunes:duration>56443</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/turings-cathedral</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/turings-cathedral.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>This Machine Kills Secrets</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/this-machine-kills-secrets.m4a" length="373303055" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/this-machine-kills-secrets</guid>
+            <pubDate>Tue, 18 Jun 2024 11:29:34 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The machine that kills secrets is a powerful cryptographic code that hides the identities of leakers and hacktivists as they spill the private files of government agencies and corporations bringing us into a new age of whistle blowing. With unrivaled access to figures like Julian Assange, Daniel Domscheit-Berg, and Jacob Applebaum, investigative journalist Andy Greenberg unveils the group that brought the world WikiLeaks, OpenLeaks, and BalkanLeaks.</p> <p>This powerful technology has been evolving for decades in the hands of hackers and radical activists, from the libertarian enclaves of Northern California to Berlin to the Balkans. And the secret-killing machine continues to evolve beyond WikiLeaks, as a movement of hacktivists aims to obliterate the world’s institutional secrecy. Never have the seemingly powerless had so much power to disembowel big corporations and big government.</p> ]]>
+            </description>
+            <itunes:duration>46076</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/this-machine-kills-secrets</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/this-machine-kills-secrets.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>This Is How They Tell Me the World Ends</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/this-is-how-they-tell-me-the-world-ends.m4a" length="1079821892" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/this-is-how-they-tell-me-the-world-ends</guid>
+            <pubDate>Tue, 18 Jun 2024 11:28:35 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Bloomsbury presents This Is How They Tell Me the World Ends by Nicole Perlroth, read by Allyson Ryan.</p> <p>Zero day: a software bug that allows a hacker to break into your devices and move around undetected. One of the most coveted tools in a spy’s arsenal, a zero day has the power to silently spy on your iPhone, dismantle the safety controls at a chemical plant, alter an election and shut down the electric grid (just ask Ukraine).</p> <p>For decades, under cover of classification levels and non-disclosure agreements, the United States government became the world’s dominant hoarder of zero days. US government agents paid top dollar - first thousands and later millions of dollars - to hackers willing to sell their lock-picking code and their silence.</p> <p>Then the United States lost control of its hoard and the market.</p> <p>Now those zero days are in the hands of hostile nations and mercenaries who do not care if your vote goes missing, your clean water is contaminated or our nuclear plants melt down.</p> <p>Filled with spies, hackers, arms dealers and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel.</p> ]]>
+            </description>
+            <itunes:duration>66208</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/this-is-how-they-tell-me-the-world-ends</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/this-is-how-they-tell-me-the-world-ends.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Soul of a New Machine</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-soul-of-a-new-machine.m4a" length="281928479" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-soul-of-a-new-machine</guid>
+            <pubDate>Tue, 18 Jun 2024 11:27:19 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Computers have changed since 1981, when Tracy Kidder memorably recorded the drama, comedy, and excitement of one company’s efforts to bring a new microcomputer to market. What has not changed is the feverish pace of the high-tech industry, the go-for-broke approach to business that has caused so many computer companies to win big (or go belly up), and the cult of pursuing mind-bending technological innovations. The Soul of a New Machine is an essential chapter in the history of the machine that revolutionized the world in the 20th century.</p> ]]>
+            </description>
+            <itunes:duration>32634</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-soul-of-a-new-machine</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-soul-of-a-new-machine.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Perfect Weapon</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-perfect-weapon.m4a" length="358929416" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-perfect-weapon</guid>
+            <pubDate>Tue, 18 Jun 2024 11:26:21 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The Perfect Weapon is the startling inside story of how the rise of cyberweapons transformed geopolitics like nothing since the invention of the atomic bomb. Cheap to acquire, easy to deny, and usable for a variety of malicious purposes, cyber is now the weapon of choice for democracies, dictators, and terrorists. Two presidents - Bush and Obama - drew first blood with Operation Olympic Games, which used malicious code to blow up Iran’s nuclear centrifuges, and yet America proved remarkably unprepared when its own weapons were stolen from its arsenal and, during President Trump’s first year, turned back on the United States and its allies. And if Obama would begin his presidency by helping to launch the new era of cyberwar, he would end it struggling unsuccessfully to defend against Russia’s broad attack on the 2016 US election.</p> <p>Moving from the White House Situation Room to the dens of Chinese government hackers to the boardrooms of Silicon Valley, New York Times national security correspondent David Sanger reveals a world coming face-to-face with the perils of technological revolution, where everyone is a target.</p> <p>“Timely and bracing…. With the deep knowledge and bright clarity that have long characterized his work, Sanger recounts the cunning and dangerous development of cyberspace into the global battlefield of the 21st century.” (Washington Post)</p> ]]>
+            </description>
+            <itunes:duration>43301</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-perfect-weapon</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-perfect-weapon.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Lazarus Heist</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-lazarus-heist.m4a" length="491877761" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-lazarus-heist</guid>
+            <pubDate>Tue, 18 Jun 2024 11:25:17 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Meet the Lazarus Group, a shadowy cabal of hackers accused of working on behalf of the North Korean state. It’s claimed that they form one of the most dangerous criminal enterprises on the planet, having stolen more than $1bn in an international crime spree. Their targets allegedly include central banks, Hollywood film studios and even the British National Health Service. North Korea denies the allegations, saying the accusations are American attempts to tarnish its image.</p> <p>In this staggering, global investigation, award-winning journalist Geoff White examines how the hackers have harnessed cutting-edge technology to launch a decade-long campaign of brazen and merciless raids on its richer, more powerful adversaries. It’s not just money they’re after. The Lazarus Group’s tactics have been used to threaten democracies, gag North Korea’s critics and destabilize global peace.</p> <p>From the bustling streets of Dhaka, to the glamorous studios of Hollywood, to the glittering casinos of Macau and the secretive dynastic court of Pyongyang, this shocking story uncovers the secret world of the Lazarus Group, their victims and the people who have tried—and ultimately, so far failed—to stop them.</p> ]]>
+            </description>
+            <itunes:duration>30519</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-lazarus-heist</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-lazarus-heist.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Hacker Crackdown</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-hacker-crackdown.m4a" length="839167543" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-hacker-crackdown</guid>
+            <pubDate>Tue, 18 Jun 2024 11:24:23 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The bestselling cyberpunk author “has produced by far the most stylish report from the computer outlaw culture since Steven Levy’s Hackers” (Publishers Weekly).</p> <p>Bruce Sterling delves into the world of high-tech crime and punishment in one of the first books to explore the cyberspace breaches that threaten national security. From the crash of AT&amp;T’s long-distance switching system to corporate cyberattacks, he investigates government and law enforcement efforts to break the back of America’s electronic underground in the 1990s. In this modern classic, “Sterling makes the hackers - who live in the ether between terminals under noms de net such as VaxCat - as vivid as Wyatt Earp and Doc Holliday. His book goes a long way towards explaining the emerging digital world and its ethos” (Publishers Weekly).</p> <p>This edition features a new preface by the author that analyzes the sobering increase in computer crime over the twenty-five years since The Hacker Crackdown was first published.</p> <p>“Offbeat and brilliant.” - Booklist</p> <p>“Thoroughly researched, this account of the government’s crackdown on the nebulous but growing computer-underground provides a thoughtful report on the laws and rights being defined on the virtual frontier of cyberspace … . An enjoyable, informative, and (as the first mainstream treatment of the subject) potentially important book … Sterling is a fine and knowledgeable guide to this strange new world.” - Kirkus Reviews</p> <p>“A well-balanced look at this new group of civil libertarians. Written with humor and intelligence, this book is highly recommended.” - Library Journal</p> ]]>
+            </description>
+            <itunes:duration>46492</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-hacker-crackdown</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-hacker-crackdown.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Cuckoo's Egg</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-cuckoos-egg.m4a" length="749414975" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-cuckoos-egg</guid>
+            <pubDate>Tue, 18 Jun 2024 11:23:16 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Before the internet became widely known as a global tool for terrorists, one perceptive US citizen recognized its ominous potential. Armed with clear evidence of computer espionage, he began a highly personal quest to expose a hidden network of spies that threatened national security. But would the authorities back him up? Cliff Stoll’s dramatic firsthand account is “a computer-age detective story, instantly fascinating [and] astonishingly gripping” - Smithsonian.</p> <p>Cliff Stoll was an astronomer turned systems manager at Lawrence Berkeley Lab when a 75 cent accounting error alerted him to the presence of an unauthorized user on his system. The hacker’s code name was “Hunter” - a mysterious invader who managed to break into US computer systems and steal sensitive military and security information. Stoll began a one-man hunt of his own: spying on the spy. It was a dangerous game of deception, broken codes, satellites, and missile bases - a one-man sting operation that finally gained the attention of the CIA…and ultimately trapped an international spy ring fueled by cash, cocaine, and the KGB.</p> ]]>
+            </description>
+            <itunes:duration>45997</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-cuckoos-egg</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-cuckoos-egg.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Brain That Changes Itself</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/the-brain-that-changes-itself.m4a" length="334276598" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/the-brain-that-changes-itself</guid>
+            <pubDate>Tue, 18 Jun 2024 11:22:06 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>An astonishing new science called neuroplasticity is overthrowing the centuries-old notion that the human brain is immutable. Psychiatrist and psychoanalyst Norman Doidge, MD, traveled the country to meet both the brilliant scientists championing neuroplasticity and the people whose lives they’ve transformed - people whose mental limitations or brain damage were seen as unalterable. We see a woman born with half a brain that rewired itself to work as a whole, blind people who learn to see, learning disorders cured, IQs raised, aging brains rejuvenated, stroke patients learning to speak, children with cerebral palsy learning to move with more grace, depression and anxiety disorders successfully treated, and lifelong character traits changed.</p> <p>Using these marvelous stories to probe mysteries of the body, emotion, love, sex, culture, and education, Dr. Doidge has written an immensely moving, inspiring book that will permanently alter the way we look at our brains, human nature, and human potential.</p> ]]>
+            </description>
+            <itunes:duration>41101</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/the-brain-that-changes-itself</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/the-brain-that-changes-itself.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Spam Nation</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/spam-nation.m4a" length="261502091" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/spam-nation</guid>
+            <pubDate>Tue, 18 Jun 2024 11:21:08 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>There is a Threat Lurking Online with the Power to Destroy Your Finances, Steal Your Personal Data, and Endanger Your Life.</p> <p>In Spam Nation, investigative journalist and cybersecurity expert Brian Krebs unmasks the criminal masterminds driving some of the biggest spam and hacker operations targeting Americans and their bank accounts. Tracing the rise, fall, and alarming resurrection of the digital mafia behind the two largest spam pharmacies - and countless viruses, phishing, and spyware attacks - he delivers the first definitive narrative of the global spam problem and its threat to consumers everywhere.</p> ]]>
+            </description>
+            <itunes:duration>31588</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/spam-nation</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/spam-nation.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Social Engineering</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/social-engineering.m4a" length="450412864" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/social-engineering</guid>
+            <pubDate>Tue, 18 Jun 2024 11:20:20 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Social Engineering: The Science of Human Hacking reveals the craftier side of the hacker’s repertoire - why hack into something when you could just ask for access? Undetectable by firewalls and antivirus software, social engineering relies on human fault to gain access to sensitive spaces; in this book, renowned expert Christopher Hadnagy explains the most commonly used techniques that fool even the most robust security personnel and reveals how these techniques have been used in the past.</p> <p>The way that we make decisions as humans affects everything from our emotions to our security. Hackers, since the beginning of time, have figured out ways to exploit that decision making process and get you to take an action not in your best interest. Networks and systems can be hacked, but they can also be protected; when the “system” in question is a human being, there is no software to fall back on, no hardware upgrade, no code that can lock information down indefinitely. Human nature and emotion is the secret weapon of the malicious social engineering, and this book reveals how to recognize, predict, and prevent this type of manipulation by taking you inside the social engineer’s bag of tricks.</p> ]]>
+            </description>
+            <itunes:duration>53605</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/social-engineering</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/social-engineering.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Skunk Works</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/skunk-works.m4a" length="357338367" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/skunk-works</guid>
+            <pubDate>Tue, 18 Jun 2024 11:19:10 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>From the development of the U-2 to the Stealth fighter, the never-before-told story behind America’s high-stakes quest to dominate the skies. Skunk Works is the true story of America’s most secret and successful aerospace operation. As recounted by Ben Rich, the operation’s brilliant boss for nearly two decades, the chronicle of Lockheed’s legendary Skunk Works is a drama of Cold War confrontations and Gulf War air combat, of extraordinary feats of engineering and human achievement against fantastic odds. Here are up-close portraits of the maverick band of scientists and engineers who made the Skunk Works so renowned. Filled with telling personal anecdotes and high adventure, with narratives from the CIA and from air force pilots who flew the many classified, risky missions, this book is a riveting portrait of the most spectacular aviation triumphs of the 20th century.</p> ]]>
+            </description>
+            <itunes:duration>43711</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/skunk-works</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/skunk-works.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Sandworm</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/sandworm.m4a" length="672006330" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/sandworm</guid>
+            <pubDate>Tue, 18 Jun 2024 11:17:41 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>From Wired senior writer Andy Greenberg comes the true story of the most devastating cyberattack in history and the desperate hunt to identify and track the elite Russian agents behind it.</p> <p>“Much more than a true-life techno-thriller…a tour through a realm that is both invisible and critical to the daily lives of every person alive in the 21st century.” (Los Angeles Times)</p> <p>In 2014, the world witnessed the start of a mysterious series of cyberattacks. Targeting American utility companies, NATO, and electric grids in Eastern Europe, the strikes grew ever more brazen. They culminated in the summer of 2017, when the malware known as NotPetya was unleashed, penetrating, disrupting, and paralyzing some of the world’s largest businesses - from drug manufacturers to software developers to shipping companies. At the attack’s epicenter in Ukraine, ATMs froze. The railway and postal systems shut down. Hospitals went dark. NotPetya spread around the world, inflicting an unprecedented 10 billion dollars in damage - the largest, most devastating cyberattack the world had ever seen.</p> <p>The hackers behind these attacks are quickly gaining a reputation as the most dangerous team of cyberwarriors in history: a group known as Sandworm. Working in the service of Russia’s military intelligence agency, they represent a persistent, highly skilled force, one whose talents are matched by their willingness to launch broad, unrestrained attacks on the most critical infrastructure of their adversaries. They target government and private sector, military, and civilians alike.</p> <p>A chilling, globe-spanning detective story, Sandworm considers the danger this force poses to our national security and stability. As the Kremlin’s role in foreign government manipulation comes into greater focus, Sandworm exposes the realities not just of Russia’s global digital offensive, but of an era where warfare ceases to be waged on the battlefield. It reveals how the lines between digital and physical conflict, between wartime and peacetime, have begun to blur - with world-shaking implications.</p> ]]>
+            </description>
+            <itunes:duration>43349</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/sandworm</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/sandworm.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Reinventing Your Life</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/reinventing-your-life.m4a" length="918124585" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/reinventing-your-life</guid>
+            <pubDate>Tue, 18 Jun 2024 11:10:50 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Learn how to end the self-destructive behaviors that stop you from living your best life with this breakthrough program.</p> <p>Do you…</p> <p>• Put the needs of others above your own?</p> <p>• Start to panic when someone you love leaves - or threatens to?</p> <p>• Often feel anxious about natural disasters, losing all your money, or getting seriously ill?</p> <p>• Find that no matter how successful you are, you still feel unhappy, unfulfilled, or undeserving?</p> <p>Unsatisfactory relationships, irrational lack of self-esteem, feelings of being unfulfilled - these are all problems that can be solved by changing the types of messages that people internalize. These self-defeating behavior patterns are called “lifetraps”, and Reinventing Your Life shows you how to stop the cycle that keeps you from attaining happiness.</p> <p>Two of America’s leading psychologists, Jeffrey E. Young, PhD, and Janet S. Klosko, PhD, draw on the breakthrough principles of cognitive therapy to help you recognize and change negative thought patterns, without the aid of drugs or long-term traditional therapy. They describe 11 of the most common lifetraps, provide a diagnostic test for each, and offer step-by-step suggestions to help you break free of the traps. Thousands of men and women have seen the immediate and long-term results of the extraordinary program outlines in this clear, compassionate, liberating work. Its innovative approach to solving ongoing emotional problems will help you create a more fulfilling, productive life.</p> ]]>
+            </description>
+            <itunes:duration>56385</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/reinventing-your-life</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/reinventing-your-life.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Psycho.com</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/psychocom.m4a" length="135997081" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/psychocom</guid>
+            <pubDate>Fri, 07 Jun 2024 12:33:22 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>True tales of serial killers who went viral.</p> <p>Serial killers have been with us for decades. The internet has put them in our pockets.</p> <p>The Dnepropetrovsk Maniacs: A pair of teens go on a murderous spree, filming themselves along the way. When their deadly rampage is finished, more than twenty are dead and their exploits are immortalized in the most shocking video ever to circulate the internet, “3 Guys, 1 Hammer.”</p> <p>Pedro Rodrigues Filho, a.k.a. “Killer Petey”: A serial killer with over 100 kills to his name prides himself on killing only murderers, rapists, and pedophiles. When he walks free, he becomes a Youtube sensation.</p> <p>Mark Twitchell, a.k.a. the “Dexter” Serial Killer: A psychopath lures victims through online dating to use as “research” for his twisted film project.</p> <p>Psycho.com is a chilling look at what happens when murderous minds meet modern technology.</p> <p>Contains mature themes.</p> ]]>
+            </description>
+            <itunes:duration>20927</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/psychocom</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/psychocom.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Never Split the Difference</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/never-split-the-difference.m4a" length="491266224" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/never-split-the-difference</guid>
+            <pubDate>Fri, 07 Jun 2024 12:31:33 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>A former international hostage negotiator for the FBI offers a new field-tested approach to high-stakes negotiations - whether in the boardroom or at home.</p> <p>After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with a range of criminals, including bank robbers and terrorists. Reaching the pinnacle of his profession, he became the FBI’s lead international kidnapping negotiator.</p> <p>Never Split the Difference takes you inside the world of high-stakes negotiations and into Voss’ head, revealing the skills that helped him and his colleagues succeed where it mattered most: in saving lives. In this practical guide, he shares the nine effective principles - counterintuitive tactics and strategies - you, too, can use to become more persuasive in both your professional and personal lives.</p> <p>Life is a series of negotiations you should be prepared for: buying a car, negotiating a salary, buying a home, renegotiating rent, deliberating with your partner. Taking emotional intelligence and intuition to the next level, Never Split the Difference gives you the competitive edge in any discussion.</p> ]]>
+            </description>
+            <itunes:duration>29242</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/never-split-the-difference</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/never-split-the-difference.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Little Brother</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/little-brother.m4a" length="193051975" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/little-brother</guid>
+            <pubDate>Fri, 07 Jun 2024 12:29:19 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Marcus, a.k.a “w1n5t0n,” is only seventeen years old, but he figures he already knows how the system works–and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school’s intrusive but clumsy surveillance systems.</p> <p>But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they’re mercilessly interrogated for days.</p> <p>When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.</p> ]]>
+            </description>
+            <itunes:duration>42872</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/little-brother</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/little-brother.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Kingpin</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/kingpin.m4a" length="421634960" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/kingpin</guid>
+            <pubDate>Fri, 07 Jun 2024 12:27:27 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The word spread through the hacking underground like some unstoppable new virus: Someone - some brilliant, audacious crook - had just staged a hostile takeover of an online criminal network that siphoned billions of dollars from the U.S. economy. The FBI rushed to launch an ambitious undercover operation aimed at tracking down this new kingpin. Other agencies around the world deployed dozens of moles and double agents.</p> <p>Together, the cybercops lured numerous unsuspecting hackers into their clutches. Yet at every turn, their main quarry displayed an uncanny ability to sniff out their snitches and see through their plots. The culprit they sought was the most unlikely of criminals: a brilliant programmer with a hippie ethic and a supervillain’s double identity. Together with a smooth-talking con artist, he ran a massive real-world crime ring.</p> ]]>
+            </description>
+            <itunes:duration>29331</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/kingpin</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/kingpin.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>How to Win Friends and Influence People</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/how-to-win-friends-and-influence-people.m4a" length="422107742" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/how-to-win-friends-and-influence-people</guid>
+            <pubDate>Fri, 07 Jun 2024 12:25:56 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Updated for the first time in more than forty years, Dale Carnegie’s timeless bestseller How to Win Friends and Influence People—a classic that has improved and transformed the personal and professional lives of millions.</p> <p>This new edition of the most influential self-help book of the last century has been updated under the care of Dale’s daughter, Donna, introducing changes that keep the book fresh for today’s audiences, with priceless material restored from the original 1936 text.</p> <p>One of the best-known motivational guides in history, Dale Carnegie’s groundbreaking publication has sold tens of millions of copies, been translated into almost every known written language, and has helped countless people succeed.</p> <p>Carnegie’s rock-solid, experience-tested advice has remained relevant for generations because he addresses timeless questions about the art of getting along with people. How to Win Friends and Influence People teaches you:</p> <p>-How to communicate effectively</p> <p>-How to make people like you</p> <p>-How to increase your ability to get things done</p> <p>-How to get others to see your side</p> <p>-How to become a more effective leader</p> <p>-How to successfully navigate almost any social situation</p> <p>-And so much more!</p> <p>How to Win Friends and Influence People is a historic bestseller for one simple reason: Its crucial life lessons, conveyed through engaging storytelling, have shown people how to become who they wish to be. With the newly updated version of this classic, that’s as true now as ever.</p> ]]>
+            </description>
+            <itunes:duration>26306</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/how-to-win-friends-and-influence-people</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/how-to-win-friends-and-influence-people.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Heaven's River</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/heavens-river.m4a" length="975164900" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/heavens-river</guid>
+            <pubDate>Fri, 07 Jun 2024 12:23:55 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Civil war looms in the Bobiverse in this brand-new, epic-length adventure by Audible number one best seller Dennis E. Taylor.</p> <p>More than a hundred years ago, Bender set out for the stars and was never heard from again. There has been no trace of him despite numerous searches by his clone-mates. Now Bob is determined to organize an expedition to learn Bender’s fate - whatever the cost.</p> <p>But nothing is ever simple in the Bobiverse. Bob’s descendants are out to the 24th generation now, and replicative drift has produced individuals who can barely be considered Bobs anymore. Some of them oppose Bob’s plan; others have plans of their own. The out-of-control moots are the least of the Bobiverse’s problems.</p> <p>Undaunted, Bob and his allies follow Bender’s trail. But what they discover out in deep space is so unexpected and so complex that it could either save the universe - or pose an existential threat the likes of which the Bobiverse has ever faced.</p> <p>Heaven’s River is the fourth installment in the blockbuster Audible Original Bobiverse series - which has sold more than one million copies.</p> ]]>
+            </description>
+            <itunes:duration>61073</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/heavens-river</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/heavens-river.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Hackers: Heroes of the Computer Revolution</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/hackers-heroes-of-the-computer-revolution.m4a" length="1005783727" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/hackers-heroes-of-the-computer-revolution</guid>
+            <pubDate>Fri, 07 Jun 2024 12:19:46 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Steven Levy’s classic book traces the exploits of the computer revolution’s original hackers - those brilliant and eccentric nerds from the late 1950s through the early ’80s who took risks, bent the rules, and pushed the world in a radical new direction. With updated material from noteworthy hackers such as Bill Gates, Mark Zuckerberg, Richard Stallman, and Steve Wozniak, Hackers is a fascinating story that begins in early computer research labs and leads to the first home computers.</p> <p>Levy profiles the imaginative brainiacs who found clever and unorthodox solutions to computer engineering problems. They had a shared sense of values, known as “the hacker ethic” that still thrives today. Hackers captures a seminal period in recent history when underground activities blazed a trail for today’s digital world, from MIT students finagling access to clunky computer-card machines to the DIY culture that spawned the Altair and the Apple II.</p> ]]>
+            </description>
+            <itunes:duration>73453</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/hackers-heroes-of-the-computer-revolution</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/hackers-heroes-of-the-computer-revolution.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Ghost in the Wires</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/ghost-in-the-wires.m4a" length="416023492" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/ghost-in-the-wires</guid>
+            <pubDate>Fri, 07 Jun 2024 12:18:09 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Kevin Mitnick was the most elusive computer break-in artist in history. He accessed computers and networks at the world’s biggest companies—and however fast the authorities were, Mitnick was faster, sprinting through phone switches, computer systems, and cellular networks. He spent years skipping through cyberspace, always three steps ahead and labeled unstoppable. But for Kevin, hacking wasn’t just about technological feats—it was an old fashioned confidence game that required guile and deception to trick the unwitting out of valuable information.</p> <p>Driven by a powerful urge to accomplish the impossible, Mitnick bypassed security systems and blazed into major organizations including Motorola, Sun Microsystems, and Pacific Bell. But as the FBI’s net began to tighten, Kevin went on the run, engaging in an increasingly sophisticated cat-and-mouse game that led through false identities, a host of cities, plenty of close shaves, and to an ultimate showdown with the feds, who would stop at nothing to bring him down.</p> <p>Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbelievable escape and a portrait of a visionary whose creativity, skills, and persistence forced the authorities to rethink the way they pursued him, inspiring ripples that brought permanent changes in the way people and companies protect their most sensitive information.</p> ]]>
+            </description>
+            <itunes:duration>50487</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/ghost-in-the-wires</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/ghost-in-the-wires.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Future Crimes</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/future-crimes.m4a" length="576826342" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/future-crimes</guid>
+            <pubDate>Fri, 07 Jun 2024 12:16:55 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>One of the world’s leading authorities on global security, Marc Goodman takes listeners deep into the digital underground to expose the alarming ways criminals, corporations, and even countries are using new and emerging technologies against you - and how this makes everyone more vulnerable than ever imagined.</p> <p>Technological advances have benefited our world in immeasurable ways, but there is an ominous flip side: Our technology can be turned against us. Hackers can activate baby monitors to spy on families, thieves are analyzing social media posts to plot home invasions, and stalkers are exploiting the GPS on smart phones to track their victims’ every move. We all know today’s criminals can steal identities, drain online bank accounts, and wipe out computer servers, but that’s just the beginning. To date, no computer has been created that could not be hacked - a sobering fact given our radical dependence on these machines for everything from our nation’s power grid to air traffic control to financial services.</p> <p>Yet, as ubiquitous as technology seems today, just over the horizon is a tidal wave of scientific progress that will leave our heads spinning. If today’s Internet is the size of a golf ball, tomorrow’s will be the size of the sun. Welcome to the Internet of Things, a living, breathing, global information grid where every physical object will be online. But with greater connections come greater risks. Implantable medical devices such as pacemakers can be hacked to deliver a lethal jolt of electricity and a car’s brakes can be disabled at high speed from miles away. Meanwhile, 3-D printers can produce AK-47s, bioterrorists can download the recipe for Spanish flu, and cartels are using fleets of drones to ferry drugs across borders.</p> <p>With explosive insights based upon a career in law enforcement and counterterrorism, Marc Goodman takes listeners on a vivid journey through the darkest recesses of the Internet.</p> ]]>
+            </description>
+            <itunes:duration>72596</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/future-crimes</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/future-crimes.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>For We Are Many</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/for-we-are-many.m4a" length="541646042" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/for-we-are-many</guid>
+            <pubDate>Fri, 07 Jun 2024 12:15:45 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The highly anticipated sequel to Audible’s Best of 2016 - Science Fiction winner, We Are Legion (We Are Bob); a book listeners are calling “so much fun”, “what science fiction was meant to be”, and what would happen if “Andy Weir and Ernest Cline had a lovechild”.</p> <p>Bob Johansson didn’t believe in an afterlife, so waking up after being killed in a car accident was a shock. To add to the surprise, he is now a sentient computer and the controlling intelligence for a Von Neumann probe.</p> <p>Bob and his copies have been spreading out from Earth for 40 years now, looking for habitable planets. But that’s the only part of the plan that’s still in one piece. A system-wide war has killed off 99.9 percent of the human race; nuclear winter is slowly making the Earth uninhabitable; a radical group wants to finish the job on the remnants of humanity; the Brazilian space probes are still out there, still trying to blow up the competition; and the Bobs have discovered a spacefaring species that sees all other life as food.</p> <p>Bob left Earth anticipating a life of exploration and blissful solitude. Instead he’s become a sky god to a primitive native species, the only hope for getting humanity to a new home, and possibly the only thing that can prevent every living thing in the local sphere from ending up as dinner.</p> <p>Listener favorite Ray Porter returns to narrate Bob - and his many incarnations - in all of their geeky glory.</p> <p>For We Are Many is the second installment in the blockbuster Audible Original Bobiverse series - which has sold more than one million copies.</p> ]]>
+            </description>
+            <itunes:duration>32378</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/for-we-are-many</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/for-we-are-many.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Allen Carr's Easy Way to Quit Vaping</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/allen-carrs-easy-way-to-quit-vaping.m4a" length="206087036" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/allen-carrs-easy-way-to-quit-vaping</guid>
+            <pubDate>Fri, 07 Jun 2024 12:12:25 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Listen to this audiobook now and become a happy non-smoker for the rest of your life.</p> <p>Allen Carr’s Easyway is the most successful stop-smoking method of all time. It has helped millions of smokers all over the world quit instantly, easily, painlessly and permanently. Finally Free! is a cutting-edge presentation of Allen Carr’s Easyway method specially adapted to address the difficulties women face when trying to quit.</p> <p>Here, every aspect of smoking is examined from a female perspective and answers are provided to every question and concern. Allen Car’s Easyway works both for casual and heavy smokers and regardless of how long you have been smoking. There are no gimmicks or scare tactics, you won’t put on weight and you can even smoke while you read.</p> <p>This unabridged audiobook is direct, easy-to-follow and engaging way of digesting the method, which will help you kick your smoking habit for good without willpower of sacrifice.</p> ]]>
+            </description>
+            <itunes:duration>24623</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/allen-carrs-easy-way-to-quit-vaping</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/allen-carrs-easy-way-to-quit-vaping.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Countdown to Zero Day</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/countdown-to-zero-day.m4a" length="391695910" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/countdown-to-zero-day</guid>
+            <pubDate>Fri, 07 Jun 2024 12:08:21 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Top cybersecurity journalist Kim Zetter tells the story behind the virus that sabotaged Iran’s nuclear efforts and shows how its existence has ushered in a new age of warfare - one in which a digital attack can have the same destructive capability as a megaton bomb.</p> <p>In January 2010, inspectors with the International Atomic Energy Agency noticed that centrifuges at an Iranian uranium enrichment plant were failing at an unprecedented rate. The cause was a complete mystery - apparently as much to the technicians replacing the centrifuges as to the inspectors observing them.</p> <p>Then, five months later, a seemingly unrelated event occurred: A computer security firm in Belarus was called in to troubleshoot some computers in Iran that were crashing and rebooting repeatedly.</p> <p>At first, the firm’s programmers believed the malicious code on the machines was a simple, routine piece of malware. But as they and other experts around the world investigated, they discovered a mysterious virus of unparalleled complexity.</p> <p>They had, they soon learned, stumbled upon the world’s first digital weapon. For Stuxnet, as it came to be known, was unlike any other virus or worm built before: Rather than simply hijacking targeted computers or stealing information from them, it escaped the digital realm to wreak actual, physical destruction on a nuclear facility.</p> <p>In these pages, Wired journalist Kim Zetter draws on her extensive sources and expertise to tell the story behind Stuxnet’s planning, execution, and discovery, covering its genesis in the corridors of Bush’s White House and its unleashing on systems in Iran - and telling the spectacular, unlikely tale of the security geeks who managed to unravel a sabotage campaign years in the making.</p> <p>But Countdown to Zero Day ranges far beyond Stuxnet itself.</p> ]]>
+            </description>
+            <itunes:duration>46843</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/countdown-to-zero-day</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/countdown-to-zero-day.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Dawn of the Code War</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/dawn-of-the-code-war.m4a" length="292469169" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/dawn-of-the-code-war</guid>
+            <pubDate>Fri, 07 Jun 2024 12:08:05 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The inside story of how America’s enemies launched a cyberwar against us - and how we’ve learned to fight back.</p> <p>With each passing year, the Internet-linked attacks on America’s interests have grown in both frequency and severity. Overmatched by our military, countries like North Korea, China, Iran, and Russia have found us vulnerable in cyberspace. The “Code War” is upon us.</p> <p>In this dramatic audiobook, former assistant attorney general John P. Carlin takes listeners to the front lines of a global but little-understood fight as the Justice Department and the FBI chases down hackers, online terrorist recruiters, and spies. Today, as our entire economy goes digital, from banking to manufacturing to transportation, the potential targets for our enemies multiply.</p> <p>This firsthand account is both a remarkable untold story and a warning of dangers yet to come.</p> ]]>
+            </description>
+            <itunes:duration>61160</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/dawn-of-the-code-war</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/dawn-of-the-code-war.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Data and Goliath</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/data-and-goliath.m4a" length="287267660" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/data-and-goliath</guid>
+            <pubDate>Fri, 07 Jun 2024 12:07:04 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Data is everywhere. We create it every time we go online, turn our phones on (or off), and pay with credit cards. The data is stored, studied, and bought and sold by corporations and governments for surveillance and for control. “Foremost security expert” (Wired) and best-selling author Bruce Schneier shows how this data has led to a double-edged Internet - a Web that gives power to the people but is abused by the institutions on which those people depend.</p> <p>In Data and Goliath, Schneier reveals the full extent of surveillance, censorship, and propaganda in society today, examining the risks of cybercrime, cyberterrorism, and cyberwar. He shares technological, legal, and social solutions that can help shape a more equal, private, and secure world. This is an audiobook to which everyone with an Internet connection - or bank account or smart device or car, for that matter - needs to listen.</p> ]]>
+            </description>
+            <itunes:duration>33979</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/data-and-goliath</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/data-and-goliath.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>DarkMarket</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/darkmarket.m4a" length="292013066" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/darkmarket</guid>
+            <pubDate>Fri, 07 Jun 2024 12:06:11 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The benefits of living in a digital, globalized society are enormous; so too are the dangers. The world has become a law enforcer’s nightmare and every criminal’s dream. We bank online; shop online; date, learn, work and live online. But have the institutions that keep us safe on the streets learned to protect us in the burgeoning digital world? Have we become complacent about our personal security - sharing our thoughts, beliefs and the details of our daily lives with anyone who might care to relieve us of them?</p> <p>In this fascinating and compelling book, Misha Glenny, author of the international best seller McMafia, explores the three fundamental threats facing us in the twenty-first century: cybercrime, cyberwarfare and cyberindustrial espionage. Governments and the private sector are losing billions of dollars each year fighting an ever-morphing, often invisible and often supersmart new breed of criminal: the hacker.</p> <p>Glenny has traveled and trawled the world. By exploring the rise and fall of the criminal website DarkMarket he has uncovered the most vivid, alarming and illuminating stories. Whether JiLsi or Matrix, Iceman, Master Splynter or Lord Cyric; whether Detective Sergeant Chris Dawson in Scunthorpe, England, or Agent Keith Mularski in Pittsburgh, Pennsylvania, Glenny has tracked down and interviewed all the players - the criminals, the geeks, the police, the security experts and the victims - and he places everyone and everything in a rich brew of politics, economics and history.</p> ]]>
+            </description>
+            <itunes:duration>33969</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/darkmarket</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/darkmarket.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Dark Territory</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/dark-territory.m4a" length="267475119" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/dark-territory</guid>
+            <pubDate>Fri, 07 Jun 2024 12:05:21 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>As cyber attacks dominate front-page news, as hackers join the list of global threats, and as top generals warn of a coming cyber war, few books are more timely and enlightening than Dark Territory: The Secret History of Cyber War by Slate columnist and Pulitzer Prize-winning journalist Fred Kaplan.</p> <p>Kaplan probes the inner corridors of the National Security Agency, the beyond-top-secret cyber units in the Pentagon, the “information warfare” squads of the military services, and the national security debates in the White House to tell this never-before-told story of the officers, policymakers, scientists, and spies who devised this new form of warfare and who have been planning - and, more often than people know, fighting - these wars for decades.</p> <p>From the 1991 Gulf War to conflicts in Haiti, Serbia, Syria, the former Soviet republics, Iraq, and Iran, where cyber warfare played a significant role, Dark Territory chronicles, in fascinating detail, an unknown past that shines an unsettling light on our future.</p> ]]>
+            </description>
+            <itunes:duration>32550</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/dark-territory</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/dark-territory.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Cult of the Dead Cow</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/cult-of-the-dead-cow.m4a" length="247277095" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/cult-of-the-dead-cow</guid>
+            <pubDate>Fri, 07 Jun 2024 12:04:30 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The shocking untold story of the elite secret society of hackers fighting to protect our privacy, our freedom - even democracy itself…</p> <p>Cult of the Dead Cow is the tale of the oldest, most respected, and most famous American hacking group of all time. Though until now it has remained mostly anonymous, its members invented the concept of hacktivism, released the top tool for testing password security, and created what was for years the best technique for controlling computers from afar, forcing giant companies to work harder to protect customers. They contributed to the development of Tor, the most important privacy tool on the net, and helped build cyberweapons that advanced US security without injuring anyone.</p> <p>With its origins in the earliest days of the Internet, the cDc is full of oddball characters - activists, artists, even future politicians. Many of these hackers have become top executives and advisors walking the corridors of power in Washington and Silicon Valley. The most famous is former Texas Congressman and current presidential candidate Beto O’Rourke, whose time in the cDc set him up to found a tech business, launch an alternative publication in El Paso, and make long-shot bets on unconventional campaigns.</p> <p>Today, the group and its followers are battling electoral misinformation, making personal data safer, and battling to keep technology a force for good instead of for surveillance and oppression. Cult of the Dead Cow shows how governments, corporations, and criminals came to hold immense power over individuals and how we can fight back against them.</p> ]]>
+            </description>
+            <itunes:duration>29469</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/cult-of-the-dead-cow</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/cult-of-the-dead-cow.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Code Girls</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/code-girls.m4a" length="435285698" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/code-girls</guid>
+            <pubDate>Fri, 07 Jun 2024 11:58:46 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Recruited by the US Army and Navy from small towns and elite colleges, more than 10,000 women served as codebreakers during World War II. While their brothers and boyfriends took up arms, these women moved to Washington and learned the meticulous work of codebreaking. Their efforts shortened the war, saved countless lives, and gave them access to careers previously denied to them. A strict vow of secrecy nearly erased their efforts from history; now, through dazzling research and interviews with surviving code girls, best-selling author Liza Mundy brings to life this riveting and vital story of American courage, service, and scientific accomplishment.</p> ]]>
+            </description>
+            <itunes:duration>50679</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/code-girls</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/code-girls.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Click Here to Kill Everybody</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/click-here-to-kill-everybody.m4a" length="233724099" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/click-here-to-kill-everybody</guid>
+            <pubDate>Fri, 07 Jun 2024 11:57:50 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>A world of “smart” devices means the Internet can kill people. We need to act. Now.</p> <p>Everything is a computer. Ovens are computers that make things hot; refrigerators are computers that keep things cold. These computers - from home thermostats to chemical plants - are all online. The Internet, once a virtual abstraction, can now sense and touch the physical world.</p> <p>As we open our lives to this future, often called the Internet of Things, we are beginning to see its enormous potential in ideas like driverless cars, smart cities, and personal agents equipped with their own behavioral algorithms. But every knife cuts two ways.</p> <p>All computers can be hacked. And Internet-connected computers are the most vulnerable. Forget data theft: Cutting-edge digital attackers can now crash your car, your pacemaker, and the nation’s power grid. In Click Here to Kill Everybody, renowned expert and best-selling author Bruce Schneier examines the hidden risks of this new reality.</p> <p>After exploring the full implications of a world populated by hyperconnected devices, Schneier reveals the hidden web of technical, political, and market forces that underpin the pervasive insecurities of today. He then offers common-sense choices for companies, governments, and individuals that can allow us to enjoy the benefits of this omnipotent age without falling prey to its vulnerabilities.</p> <p>From principles for a more resilient Internet of Things to a recipe for sane government regulation and oversight to a better way to understand a truly new environment, Schneier’s vision is required listening for anyone invested in human flourishing.</p> ]]>
+            </description>
+            <itunes:duration>29196</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/click-here-to-kill-everybody</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/click-here-to-kill-everybody.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Breath</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/breath.m4a" length="212000780" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/breath</guid>
+            <pubDate>Fri, 07 Jun 2024 11:51:43 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>A New York Times Best Seller</p> <p>A Washington Post Notable Nonfiction Book of 2020</p> <p>Named a Best Book of 2020 by NPR</p> <p>“A fascinating scientific, cultural, spiritual and evolutionary history of the way humans breathe - and how we’ve all been doing it wrong for a long, long time.” (Elizabeth Gilbert, author of Big Magic and Eat Pray Love)</p> <p>No matter what you eat, how much you exercise, how skinny or young or wise you are, none of it matters if you’re not breathing properly.</p> <p>There is nothing more essential to our health and well-being than breathing: Take air in, let it out, repeat 25,000 times a day. Yet, as a species, humans have lost the ability to breathe correctly, with grave consequences. Journalist James Nestor travels the world to figure out what went wrong and how to fix it. The answers aren’t found in pulmonology labs, as we might expect, but in the muddy digs of ancient burial sites, secret Soviet facilities, New Jersey choir schools, and the smoggy streets of São Paulo. Nestor tracks down men and women exploring the hidden science behind ancient breathing practices like Pranayama, Sudarshan Kriya, and Tummo and teams up with pulmonary tinkerers to scientifically test long-held beliefs about how we breathe.</p> <p>Modern research is showing us that making even slight adjustments to the way we inhale and exhale can jump-start athletic performance; rejuvenate internal organs; halt snoring, asthma, and autoimmune disease; and even straighten scoliotic spines. None of this should be possible, and yet it is. Drawing on thousands of years of medical texts and recent cutting-edge studies in pulmonology, psychology, biochemistry, and human physiology, Breath turns the conventional wisdom of what we thought we knew about our most basic biological function on its head. You will never breathe the same again.</p> ]]>
+            </description>
+            <itunes:duration>26345</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/breath</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/breath.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>All These Worlds</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/all-these-worlds.m4a" length="448147011" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/all-these-worlds</guid>
+            <pubDate>Fri, 07 Jun 2024 11:50:35 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The epic and highly anticipated conclusion to the listener-favorite series that had countless Audible listeners (and employees) hooked from the very first Bob - featuring, as always, a flawless performance from the inimitable Ray Porter.</p> <p>Being a sentient spaceship really should be more fun. But after spreading out through space for almost a century, Bob and his clones just can’t stay out of trouble.</p> <p>They’ve created enough colonies so humanity shouldn’t go extinct. But political squabbles have a bad habit of dying hard, and the Brazilian probes are still trying to take out the competition. And the Bobs have picked a fight with an older, more powerful species with a large appetite and a short temper.</p> <p>Still stinging from getting their collective butts kicked in their first encounter with the Others, the Bobs now face the prospect of a decisive final battle to defend Earth and its colonies. But the Bobs are less disciplined than a herd of cats, and some of the younger copies are more concerned with their own local problems than defeating the Others.</p> <p>Yet salvation may come from an unlikely source. A couple of eighth-generation Bobs have found something out in deep space. All it will take to save the Earth and perhaps all of humanity is for them to get it to Sol - unless the Others arrive first.</p> <p>All These Worlds is the third installment in the blockbuster Audible Original Bobiverse series - which has sold more than one million copies.</p> ]]>
+            </description>
+            <itunes:duration>28603</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/all-these-worlds</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/all-these-worlds.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Algorithms to Live By</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/algorithms-to-live-by.m4a" length="344117198" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/algorithms-to-live-by</guid>
+            <pubDate>Fri, 07 Jun 2024 11:50:22 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>A fascinating exploration of how computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind</p> <p>All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favorites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such problems for decades. And the solutions they’ve found have much to teach us.</p> <p>In a dazzlingly interdisciplinary work, acclaimed author Brian Christian (who holds degrees in computer science, philosophy, and poetry, and works at the intersection of all three) and Tom Griffiths (a UC Berkeley professor of cognitive science and psychology) show how the simple, precise algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one’s inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living.</p> ]]>
+            </description>
+            <itunes:duration>42626</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/algorithms-to-live-by</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/algorithms-to-live-by.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>A Burglar's Guide to the City</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/a-burglars-guide-to-the-city.m4a" length="236744063" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/a-burglars-guide-to-the-city</guid>
+            <pubDate>Fri, 07 Jun 2024 11:49:56 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Encompassing nearly 2,000 years of heists and tunnel jobs, break-ins and escapes, A Burglar’s Guide to the City offers an unexpected blueprint to the criminal possibilities in the world all around us. You’ll never see the city the same way again.</p> <p>At the core of A Burglar’s Guide to the City is an unexpected and thrilling insight: how any building transforms when seen through the eyes of someone hoping to break into it. Studying architecture the way a burglar would, Geoff Manaugh takes listeners through walls, down elevator shafts, into panic rooms, up to the buried vaults of banks, and out across the rooftops of an unsuspecting city.</p> <p>With the help of FBI special agents, reformed bank robbers, private security consultants, the LAPD Air Support Division, and architects past and present, the book dissects the built environment from both sides of the law. Whether picking padlocks or climbing the walls of high-rise apartments, finding gaps in a museum’s surveillance routine or discussing home invasions in ancient Rome, A Burglar’s Guide to the City has the tools, the tales, and the X-ray vision you need to see architecture as nothing more than an obstacle that can be outwitted and undercut.</p> <p>Full of real-life heists both spectacular and absurd, A Burglar’s Guide to the City ensures that listeners will never enter a bank again without imagining how to loot the vault or walk down the street without planning the perfect getaway.</p> ]]>
+            </description>
+            <itunes:duration>28561</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/a-burglars-guide-to-the-city</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/a-burglars-guide-to-the-city.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Bitcoin Billionaires</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/bitcoin-billionaires.m4a" length="569654494" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/bitcoin-billionaires</guid>
+            <pubDate>Fri, 07 Jun 2024 11:49:32 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Ben Mezrich’s 2009 best seller The Accidental Billionaires is the definitive account of Facebook’s founding - and the basis for the Academy Award-winning film The Social Network. Two of the story’s iconic characters are Harvard students Tyler and Cameron Winklevoss: identical twins, Olympic rowers, and legal foils to Mark Zuckerberg. Bitcoin Billionaires is the story of the brothers’ redemption and revenge in the wake of their epic legal battle with Facebook - and the first great audiobook from the world of bitcoin.</p> <p>Planning to start careers as venture capitalists, the brothers quickly discover that no one will take their money for fear of alienating Zuckerberg. While nursing their wounds in Ibiza, they accidentally run into a shady character who tells them about a brand-new idea: cryptocurrency.</p> <p>Immersing themselves in what is then an obscure and sometimes sinister world, they begin to realise ‘crypto’ is, in their own words, ‘either the next big thing or total bulls–t.’ There’s nothing left to do but make a bet.</p> <p>From the Silk Road to the halls of the Securities and Exchange Commission to the Facebook boardroom, Bitcoin Billionaires will take us on a wild and surprising ride while illuminating a tantalising economic future. On November 26th, 2017, the Winklevoss brothers became the first bitcoin billionaires. Here’s the story of how they got there - as only Ben Mezrich could tell it.</p> ]]>
+            </description>
+            <itunes:duration>34321</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/bitcoin-billionaires</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/bitcoin-billionaires.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Sapiens</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/sapiens.m4a" length="895714032" type="audio/mp4"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/sapiens</guid>
+            <pubDate>Fri, 07 Jun 2024 10:30:08 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution - a number one international best seller - that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human”.</p> <p>One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one - Homo sapiens. What happened to the others? And what may happen to us?</p> <p>Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago, with the appearance of modern cognition. From examining the role evolving humans have played in the global ecosystem to charting the rise of empires, Sapiens integrates history and science to reconsider accepted narratives, connect past developments with contemporary concerns, and examine specific events within the context of larger ideas.</p> <p>Dr. Harari also compels us to look ahead, because, over the last few decades, humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us but also ourselves. Where is this leading us, and what do we want to become?</p> <p>This provocative and insightful work is sure to spark debate and is essential for aficionados of Jared Diamond, James Gleick, Matt Ridley, Robert Wright, and Sharon Moalem.</p> ]]>
+            </description>
+            <itunes:duration>55123</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/sapiens</link>
+            <itunes:image href="https://drive.kenuvo.workers.dev/0:/sapiens.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
