@@ -15,7 +15,7 @@
         <title>Audiobooks</title>
         <description>Audiobooks</description>
         <podcast:medium>podcast</podcast:medium>
-        <itunes:image href="https://drive.kenuvo.workers.dev/0:/coverimage.png"/>
+        <itunes:image href="https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1"/>
         <language>en</language>
         <podcast:locked owner="audio@books.com">no</podcast:locked>
         <podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@Audiobooks@audiobooks.kenuvo.com" accountUrl="https://audiobooks.kenuvo.com/@Audiobooks"/>
@@ -30,7 +30,7 @@
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <image>
-            <url>https://drive.kenuvo.workers.dev/0:/coverimage.png</url>
+            <url>https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1</url>
             <title>Audiobooks</title>
             <link>https://drive.kenuvo.workers.dev</link>
         </image>
@@ -44,7 +44,7 @@
             </description>
             <itunes:duration>42662</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/21-lessons-for-the-21st-century</link>
-            <itunes:image href="https://1drv.ms/i/s!AqUQwcQ__lU0zRF1LzJxtn1jlj-g?embed=1&width=1781&height=1781"/>
+            <itunes:image href="https://1drv.ms/i/s!AqUQwcQ__lU0zRF1LzJxtn1jlj-g?embed=1"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
