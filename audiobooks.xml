@@ -15,7 +15,7 @@
         <title>Audiobooks</title>
         <description>Audiobooks</description>
         <podcast:medium>podcast</podcast:medium>
-        <itunes:image href="https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1"/>
+        <itunes:image href="https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1&width=1400&height=1400"/>
         <language>en</language>
         <podcast:locked owner="audio@books.com">no</podcast:locked>
         <podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@Audiobooks@audiobooks.kenuvo.com" accountUrl="https://audiobooks.kenuvo.com/@Audiobooks"/>
@@ -30,7 +30,7 @@
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <image>
-            <url>https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1</url>
+            <url>https://1drv.ms/i/s!AqUQwcQ__lU0zRzOIYlCEdD7zNUZ?embed=1&width=1400&height=1400</url>
             <title>Audiobooks</title>
             <link>https://drive.kenuvo.workers.dev</link>
         </image>
