@@ -35,6 +35,19 @@
             <link>https://drive.kenuvo.workers.dev</link>
         </image>
         <item>
+            <title>Nexus</title>
+            <enclosure url="https://drive.kenuvo.workers.dev/0:/nexus.m4a" length="999478931" type="audio/mpeg"/>
+            <guid>https://drive.kenuvo.workers.dev/0:/nexus</guid>
+            <pubDate>Thu, 1 Jan 2025 12:10:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The story of how information networks have made, and unmade, our world from the #1 Sunday Times bestselling author of Sapiens</p><p>Stories brought us together.</p><p>Books spread our ideas – and our mythologies.</p><p>The internet promised infinite knowledge.</p><p>The algorithm learned our secrets – and then turned us against each other.</p><p>What will AI do?</p><p>NEXUS is the thrilling account of how we arrived at this moment, and the urgent choices we must now make to survive – and to thrive.</p> ]]>
+            </description>
+            <itunes:duration>62880</itunes:duration>
+            <link>https://drive.kenuvo.workers.dev/0:/nexus</link>
+            <itunes:image href="https://cillin89.github.io/audiobooks/images/nexus.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
             <title>Why We Love Dogs, Eat Pigs, and Wear Cows</title>
             <enclosure url="https://drive.kenuvo.workers.dev/0:/why-we-love-dogs.m4a" length="287369696" type="audio/mpeg"/>
             <guid>https://drive.kenuvo.workers.dev/0:/why-we-love-dogs</guid>
