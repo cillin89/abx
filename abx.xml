@@ -3,7 +3,7 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <channel>
-        <atom:link href="https://cillin89.github.io/audiobooks/audiobooks.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://cillin89.github.io/abx/abx.xml" rel="self" type="application/rss+xml"/>
         <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" type="application/rss+xml"/>
         <atom:link href="https://pubsubhubbub.superfeedr.com/" rel="hub" type="application/rss+xml"/>
         <atom:link href="https://websubhub.com/hub" rel="hub" type="application/rss+xml"/>
@@ -15,10 +15,10 @@
         <title>Audiobooks</title>
         <description>Audiobooks</description>
         <podcast:medium>podcast</podcast:medium>
-        <itunes:image href="https://cillin89.github.io/audiobooks/images/coverimage.png"/>
+        <itunes:image href="https://cillin89.github.io/abx/images/coverimage.png"/>
         <language>en</language>
         <podcast:locked owner="audio@books.com">no</podcast:locked>
-        <podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@Audiobooks@audiobooks.kenuvo.com" accountUrl="https://audiobooks.kenuvo.com/@Audiobooks"/>
+        <podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@Abx@abx.com" accountUrl="https://at/@Abx"/>
         <itunes:category text="Technology"/>
         <category>Technology</category>
         <itunes:explicit>false</itunes:explicit>
@@ -30,7 +30,7 @@
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <image>
-            <url>https://cillin89.github.io/audiobooks/images/coverimage.png</url>
+            <url>https://cillin89.github.io/abx/images/coverimage.png</url>
             <title>Audiobooks</title>
             <link>https://drive.kenuvo.workers.dev</link>
         </image>
@@ -44,7 +44,7 @@
             </description>
             <itunes:duration>21135</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/dealers-of-lightning</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/dealers-of-lightning.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/dealers-of-lightning.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -57,7 +57,7 @@
             </description>
             <itunes:duration>19413</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/overcoming-unwanted-intrusive-thoughts</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/overcoming-unwanted-intrusive-thoughts.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/overcoming-unwanted-intrusive-thoughts.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -70,7 +70,7 @@
             </description>
             <itunes:duration>20133</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/atomic-habits</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/atomic-habits.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/atomic-habits.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -83,7 +83,7 @@
             </description>
             <itunes:duration>48599</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/life-30</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/life-30.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/life-30.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -96,7 +96,7 @@
             </description>
             <itunes:duration>24691</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/hello-world</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/hello-world.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/hello-world.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -109,7 +109,7 @@
             </description>
             <itunes:duration>47013</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-master-algorithm</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-master-algorithm.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-master-algorithm.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -122,7 +122,7 @@
             </description>
             <itunes:duration>41014</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-secret-race</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-secret-race.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-secret-race.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -135,7 +135,7 @@
             </description>
             <itunes:duration>40175</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/endure</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/endure.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/endure.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -148,7 +148,7 @@
             </description>
             <itunes:duration>62880</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/nexus</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/nexus.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/nexus.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -161,7 +161,7 @@
             </description>
             <itunes:duration>18048</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/why-we-love-dogs</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/why-we-love-dogs.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/why-we-love-dogs.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -174,7 +174,7 @@
             </description>
             <itunes:duration>53635</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/homo-deus</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/homo-deus.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/homo-deus.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -187,7 +187,7 @@
             </description>
             <itunes:duration>42662</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/21-lessons-for-the-21st-century</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/21-lessons-for-the-21st-century.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/21-lessons-for-the-21st-century.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -200,7 +200,7 @@
             </description>
             <itunes:duration>15239</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/why-the-world-isnt-fair</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/why-the-world-isnt-fair.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/why-the-world-isnt-fair.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -213,7 +213,7 @@
             </description>
             <itunes:duration>35734</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/where-wizards-stay-up-late</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/where-wizards-stay-up-late.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/where-wizards-stay-up-late.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -226,7 +226,7 @@
             </description>
             <itunes:duration>56580</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/playing-to-the-edge</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/playing-to-the-edge.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/playing-to-the-edge.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -239,7 +239,7 @@
             </description>
             <itunes:duration>40209</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/crime-dot-com</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/crime-dot-com.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/crime-dot-com.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -252,7 +252,7 @@
             </description>
             <itunes:duration>34513</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/rinsed</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/rinsed.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/rinsed.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -265,7 +265,7 @@
             </description>
             <itunes:duration>15603</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-dark-web</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-dark-web.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-dark-web.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -278,7 +278,7 @@
             </description>
             <itunes:duration>25742</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/worm</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/worm.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/worm.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -291,7 +291,7 @@
             </description>
             <itunes:duration>38808</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/tracers-in-the-dark</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/tracers-in-the-dark.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/tracers-in-the-dark.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -304,7 +304,7 @@
             </description>
             <itunes:duration>40871</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/likewar</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/likewar.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/likewar.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -317,7 +317,7 @@
             </description>
             <itunes:duration>30189</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/fatal-system-error</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/fatal-system-error.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/fatal-system-error.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -330,7 +330,7 @@
             </description>
             <itunes:duration>44071</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/american-kingpin</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/american-kingpin.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/american-kingpin.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -343,7 +343,7 @@
             </description>
             <itunes:duration>34770</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/zero-day</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/zero-day.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/zero-day.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -356,7 +356,7 @@
             </description>
             <itunes:duration>49922</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/why-we-sleep</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/why-we-sleep.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/why-we-sleep.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -369,7 +369,7 @@
             </description>
             <itunes:duration>34267</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/we-are-legion-we-are-bob</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/we-are-legion-we-are-bob.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/we-are-legion-we-are-bob.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -382,7 +382,7 @@
             </description>
             <itunes:duration>56443</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/turings-cathedral</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/turings-cathedral.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/turings-cathedral.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -395,7 +395,7 @@
             </description>
             <itunes:duration>46076</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/this-machine-kills-secrets</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/this-machine-kills-secrets.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/this-machine-kills-secrets.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -408,7 +408,7 @@
             </description>
             <itunes:duration>66208</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/this-is-how-they-tell-me-the-world-ends</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/this-is-how-they-tell-me-the-world-ends.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/this-is-how-they-tell-me-the-world-ends.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -421,7 +421,7 @@
             </description>
             <itunes:duration>32634</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-soul-of-a-new-machine</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-soul-of-a-new-machine.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-soul-of-a-new-machine.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -434,7 +434,7 @@
             </description>
             <itunes:duration>43301</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-perfect-weapon</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-perfect-weapon.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-perfect-weapon.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -447,7 +447,7 @@
             </description>
             <itunes:duration>30519</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-lazarus-heist</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-lazarus-heist.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-lazarus-heist.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -460,7 +460,7 @@
             </description>
             <itunes:duration>46492</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-hacker-crackdown</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-hacker-crackdown.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-hacker-crackdown.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -473,7 +473,7 @@
             </description>
             <itunes:duration>45997</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-cuckoos-egg</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-cuckoos-egg.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-cuckoos-egg.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -486,7 +486,7 @@
             </description>
             <itunes:duration>41101</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/the-brain-that-changes-itself</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/the-brain-that-changes-itself.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-brain-that-changes-itself.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -499,7 +499,7 @@
             </description>
             <itunes:duration>31588</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/spam-nation</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/spam-nation.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/spam-nation.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -512,7 +512,7 @@
             </description>
             <itunes:duration>53605</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/social-engineering</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/social-engineering.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/social-engineering.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -525,7 +525,7 @@
             </description>
             <itunes:duration>43711</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/skunk-works</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/skunk-works.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/skunk-works.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -538,7 +538,7 @@
             </description>
             <itunes:duration>43349</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/sandworm</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/sandworm.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/sandworm.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -551,7 +551,7 @@
             </description>
             <itunes:duration>56385</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/reinventing-your-life</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/reinventing-your-life.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/reinventing-your-life.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -564,7 +564,7 @@
             </description>
             <itunes:duration>20927</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/psychocom</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/psychocom.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/psychocom.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -577,7 +577,7 @@
             </description>
             <itunes:duration>29242</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/never-split-the-difference</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/never-split-the-difference.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/never-split-the-difference.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -590,7 +590,7 @@
             </description>
             <itunes:duration>42872</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/little-brother</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/little-brother.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/little-brother.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -603,7 +603,7 @@
             </description>
             <itunes:duration>29331</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/kingpin</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/kingpin.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/kingpin.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -616,7 +616,7 @@
             </description>
             <itunes:duration>26306</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/how-to-win-friends-and-influence-people</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/how-to-win-friends-and-influence-people.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/how-to-win-friends-and-influence-people.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -629,7 +629,7 @@
             </description>
             <itunes:duration>61073</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/heavens-river</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/heavens-river.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/heavens-river.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -642,7 +642,7 @@
             </description>
             <itunes:duration>73453</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/hackers-heroes-of-the-computer-revolution</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/hackers-heroes-of-the-computer-revolution.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/hackers-heroes-of-the-computer-revolution.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -655,7 +655,7 @@
             </description>
             <itunes:duration>50487</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/ghost-in-the-wires</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/ghost-in-the-wires.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/ghost-in-the-wires.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -668,7 +668,7 @@
             </description>
             <itunes:duration>72596</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/future-crimes</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/future-crimes.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/future-crimes.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -681,7 +681,7 @@
             </description>
             <itunes:duration>32378</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/for-we-are-many</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/for-we-are-many.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/for-we-are-many.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -694,7 +694,7 @@
             </description>
             <itunes:duration>24623</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/allen-carrs-easy-way-to-quit-vaping</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/allen-carrs-easy-way-to-quit-vaping.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/allen-carrs-easy-way-to-quit-vaping.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -707,7 +707,7 @@
             </description>
             <itunes:duration>46843</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/countdown-to-zero-day</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/countdown-to-zero-day.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/countdown-to-zero-day.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -720,7 +720,7 @@
             </description>
             <itunes:duration>61160</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/dawn-of-the-code-war</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/dawn-of-the-code-war.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/dawn-of-the-code-war.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -733,7 +733,7 @@
             </description>
             <itunes:duration>33979</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/data-and-goliath</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/data-and-goliath.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/data-and-goliath.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -746,7 +746,7 @@
             </description>
             <itunes:duration>33969</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/darkmarket</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/darkmarket.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/darkmarket.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -759,7 +759,7 @@
             </description>
             <itunes:duration>32550</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/dark-territory</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/dark-territory.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/dark-territory.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -772,7 +772,7 @@
             </description>
             <itunes:duration>29469</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/cult-of-the-dead-cow</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/cult-of-the-dead-cow.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/cult-of-the-dead-cow.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -785,7 +785,7 @@
             </description>
             <itunes:duration>50679</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/code-girls</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/code-girls.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/code-girls.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -798,7 +798,7 @@
             </description>
             <itunes:duration>29196</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/click-here-to-kill-everybody</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/click-here-to-kill-everybody.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/click-here-to-kill-everybody.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -811,7 +811,7 @@
             </description>
             <itunes:duration>26345</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/breath</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/breath.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/breath.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -824,7 +824,7 @@
             </description>
             <itunes:duration>28603</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/all-these-worlds</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/all-these-worlds.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/all-these-worlds.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -837,7 +837,7 @@
             </description>
             <itunes:duration>42626</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/algorithms-to-live-by</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/algorithms-to-live-by.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/algorithms-to-live-by.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -850,7 +850,7 @@
             </description>
             <itunes:duration>28561</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/a-burglars-guide-to-the-city</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/a-burglars-guide-to-the-city.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/a-burglars-guide-to-the-city.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -863,7 +863,7 @@
             </description>
             <itunes:duration>34321</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/bitcoin-billionaires</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/bitcoin-billionaires.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/bitcoin-billionaires.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
         <item>
@@ -876,7 +876,7 @@
             </description>
             <itunes:duration>55123</itunes:duration>
             <link>https://drive.kenuvo.workers.dev/0:/sapiens</link>
-            <itunes:image href="https://cillin89.github.io/audiobooks/images/sapiens.jpg"/>
+            <itunes:image href="https://cillin89.github.io/abx/images/sapiens.jpg"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
     </channel>
