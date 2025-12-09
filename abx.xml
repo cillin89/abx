@@ -35,6 +35,45 @@
             <link>https://drive.kenuvo.workers.dev</link>
         </image>
         <item>
+            <title>The Mind Illuminated</title>
+            <enclosure url="https://dufs.kenuvo.com/the-mind-illuminated.m4a" length="403815309" type="audio/mpeg"/>
+            <guid>https://dufs.kenuvo.com/the-mind-illuminated</guid>
+            <pubDate>Tue, 29 Jul 2025 11:17:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>The book that best-selling meditation teacher Sharon Salzberg raves "brings the path of meditation to life", The Mind Illuminated is the first how-to meditation guide from a neuroscientist who is also an acclaimed meditation master. This innovative book offers a 10-stage program that is deeply grounded in ancient spiritual teachings about mindfulness and holistic health and also draws from the latest brain science to provide a road map for anyone interested in achieving the benefits of mindfulness. Dr. John Yates offers a new and fascinating model of how the mind works, including steps to overcome mind wandering and dullness, extending your attention span while meditating, and subduing subtle distractions. This groundbreaking manual helps you work through each stage of the process, offering tools that work across all types of meditation practices.</p> ]]>
+            </description>
+            <itunes:duration>48842</itunes:duration>
+            <link>https://dufs.kenuvo.com/the-mind-illuminated</link>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-mind-illuminated.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>Mindfulness in Plain English</title>
+            <enclosure url="https://dufs.kenuvo.com/mindfulness-in-plain-english.m4a" length="250684150" type="audio/mpeg"/>
+            <guid>https://dufs.kenuvo.com/mindfulness-in-plain-english</guid>
+            <pubDate>Tue, 29 Jul 2025 11:16:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>With over a quarter of a million copies sold, Mindfulness in Plain English is one of the most influential books in the burgeoning field of mindfulness and a timeless classic introduction to meditation. This is a book that people listen to, love, and share - a book that people talk about, write about, reflect on, and return to over and over again.</p> ]]>
+            </description>
+            <itunes:duration>22359</itunes:duration>
+            <link>https://dufs.kenuvo.com/mindfulness-in-plain-english</link>
+            <itunes:image href="https://cillin89.github.io/abx/images/mindfulness-in-plain-english.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The Untethered Soul</title>
+            <enclosure url="https://dufs.kenuvo.com/the-untethered-soul.m4a" length="244627772" type="audio/mpeg"/>
+            <guid>https://dufs.kenuvo.com/the-untethered-soul</guid>
+            <pubDate>Tue, 29 Jul 2025 11:15:49 +0000</pubDate>
+            <description>
+                <![CDATA[ <p>Spiritual teacher Michael A. Singer explores the question of human identity and shows how the development of consciousness can enable us all to dwell in the present moment and achieve happiness and self-realization.</p> ]]>
+            </description>
+            <itunes:duration>22178</itunes:duration>
+            <link>https://dufs.kenuvo.com/the-untethered-soul</link>
+            <itunes:image href="https://cillin89.github.io/abx/images/the-untethered-soul.jpg"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
             <title>Ctrl+Alt+Chaos</title>
             <enclosure url="https://dufs.kenuvo.com/ctrl-alt-chaos.m4a" length="237977469" type="audio/mpeg"/>
             <guid>https://dufs.kenuvo.com/ctrl-alt-chaos</guid>
